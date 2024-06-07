@@ -34,7 +34,7 @@ How to Use
 1. Clone the repository: https://github.com/Mahabub21/pricing-component-with-toggle-master-2.git.
 2. Open the index.html file in a web browser.
 3. Explore the pricing component and toggle between monthly and annual plans.
-4. preview link:
+4. preview link: https://mahabub21.github.io/pricing-component-with-toggle-master-2/
 5. preview: ![Screenshot_2](https://github.com/Mahabub21/pricing-component-with-toggle-master-2/assets/158444199/4e026ae3-dfec-4ba9-8dec-9e33529dbdc1).
 
 
