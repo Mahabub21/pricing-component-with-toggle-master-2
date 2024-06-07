@@ -46,7 +46,7 @@ The design and assets were provided by Frontend Mentor, and the code implementat
 Feel free to use this project as a template or reference for your own projects.
 If you have any suggestions or improvements, please create an issue or pull request.
 
-project preview:https://sefat-khan.github.io/pricing-component-with-toggle-master-2/.
+project preview:  https://github.com/Mahabub21/pricing-component-with-toggle-master-2.git
 
 Happy coding!
 
